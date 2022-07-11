@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oh, hi, didn't see you there
 
-<!--
-**Calder-Ty/Calder-Ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tyler Calder. I'm a Software/Data Infrastructure Engineer. I love to work on various
+things, and contribute where I can.
 
-Here are some ideas to get you started:
+### Getting More:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you like to watch people code, I live code on [twitch](www.twitch.tv/calder-ty).
+
+If you like something other than just code, you can read my [Blog](www.calder-ty.com), where
+I talk about Software Engineering, Leadership and more.
+
+
