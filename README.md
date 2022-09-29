@@ -1,6 +1,6 @@
-### Oh, hi, didn't see you there
+### Hi, I'm Tyler Calder
 
-My name is Tyler Calder. I'm a Software/Data Infrastructure Engineer. I love to work on various
+I'm a Software/Data Infrastructure Engineer. I love to work on various
 things, and contribute where I can.
 
 ### Getting More:
